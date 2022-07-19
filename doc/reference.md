@@ -49,13 +49,14 @@ analog ic design gray
   
   http://fmcet.in/CSE/CS2253_uw.pdf  
   
-	TEXT BOOKS  
-	1. Carl Hamacher, Zvonko Vranesic and Safwat Zaky, “Computer Organization”, 5th Edition, Tata Mc-Graw Hill, 2002.  
-	2. Heuring, V.P. and Jordan, H.F., “Computer Systems Design and Architecture”, 2nd Edition, Pearson Education, 2004.  
-	REFERENCES  
-	1. Patterson, D. A., and Hennessy, J.L., “Computer Organization and Design:The Hardware/Software Interface”, 3rd Edition, Elsevier, 2005.  
-	2. William Stallings, “Computer Organization and Architecture – Designing for Performance”, 6th Edition, Pearson Education, 2003.  
-	3. Hayes, J.P., “Computer Architecture and Organization”, 3rd Edition, Tata Mc-Graw Hill, 1998.  
+TEXT BOOKS  
+  1. Carl Hamacher, Zvonko Vranesic and Safwat Zaky, “Computer Organization”, 5th Edition, Tata Mc-Graw Hill, 2002.  
+  2. Heuring, V.P. and Jordan, H.F., “Computer Systems Design and Architecture”, 2nd Edition, Pearson Education, 2004.  
+  
+REFERENCES  
+  1. Patterson, D. A., and Hennessy, J.L., “Computer Organization and Design:The Hardware/Software Interface”, 3rd Edition, Elsevier, 2005.  
+  2. William Stallings, “Computer Organization and Architecture – Designing for Performance”, 6th Edition, Pearson Education, 2003.  
+  3. Hayes, J.P., “Computer Architecture and Organization”, 3rd Edition, Tata Mc-Graw Hill, 1998.  
   
   
 computer architecture organization hayes  
