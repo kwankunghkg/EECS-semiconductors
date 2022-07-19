@@ -1,17 +1,21 @@
+----------------------------------------------    
+updated 2022.7.19 09.33  
+updated 2022.1.23 19.33  
   
   
   
 ----------------------------------------------    
+# books  
     
-Art of Writing TestBenches  
+----------------------------------------------  
   
+Art of Writing TestBenches  
   http://www.asic-world.com/verilog/art_testbench_writing.html  
   
   
 ----------------------------------------------    
   
   
-# books  
   
 ----------------------------------------------    
   
@@ -74,9 +78,33 @@ Computer Organization and Design MIPS Edition: The Hardware/Software Interface (
   https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0128201096/  
   
   
+----------------------------------------------  
+  
+***** semiconductors 半導體與電子產業  
+  https://www.bnext.com.tw/categories/semiconductor/p/1  
   
   
+《自己动手写CPU》.pdf  
+  https://github.com/lmxyy/Computer-Architecture-Task-2/tree/master/Document  
+RiscV32 CPU Project  
+  https://github.com/lmxyy/Computer-Architecture-Task-2  
   
-----------------------------------------------    
-updated 2022.1.23 19.33  
+《自己动手写CPU》P1-300.pdf  
+《自己动手写CPU》P301-553.pdf  
+riscv-spec-v2.2.pdf  
+project-v1.0.pdf  
+Basys3-FPGA-开发板实验参考资料.pdf  
+Branch Prediction.pdf  
+Branch Predictor Wikippedia.pdf  
+ug901-vivado-synthesis.pdf  
+  
+  
+OpenMIPS  
+  https://github.com/muzilinxi90/OpenMIPS  
+
+openMIPS - ENIGMA2  
+  https://www.enigma2.net › tag › openmips  
+  
+  
+----------------------------------------------  
 End of File
