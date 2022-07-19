@@ -106,5 +106,39 @@ openMIPS - ENIGMA2
   https://www.enigma2.net › tag › openmips  
   
   
+  https://en.wikipedia.org/wiki/RISC-V  
+  https://en.wikipedia.org/wiki/Berkeley_RISC  
+  
+  https://en.wikipedia.org/wiki/SPARC  
+  https://en.wikipedia.org/wiki/OpenSPARC  
+  https://en.wikipedia.org/wiki/UltraSPARC_T1  
+  
+  https://en.wikipedia.org/wiki/OpenSolaris  
+  https://en.wikipedia.org/wiki/OpenSUSE#The_openSUSE_Project  
+
+---------------------------------------------  
+  
+從 RISC-V 處理器到 UNIX 作業系統  
+https://github.com/riscv2os/riscv2os  
+riscv2os 是一本手把手帶你學習 RISC-V 到可以自製 RISC-V 處理器上的作業系統的電子書。  
+讀者可以透過這個學習資源，了解 C 語言是為何而生。  
+  
+陳鍾誠  ·  
+  https://www.facebook.com/ccckmit/posts/10159746993556893  
+這幾年我投注很多心力在閱讀 RISC-V 的相關程式碼，包含:  
+1. 寫了 mini-riscv-os 嵌入式作業系統  
+2. 閱讀了 xv6 作業系統  
+3. 創建 riscv2os 這本電子書  
+剛剛看到 jserv 完成了 semu 這個可以跑 xv6 的虛擬機，僅僅一千行的程式碼，讀完果然把最後一塊拼圖接上了  
+於是我對該程式加了中文註解。  
+網址位於留言中！  
+  
+陳鍾誠  
+https://github.com/riscv2os/riscv2os/blob/master/semu/semu.c  
+  
+陳鍾誠  
+https://github.com/riscv2os/riscv2os/wiki  
+  
+  
 ----------------------------------------------  
 End of File
