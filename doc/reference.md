@@ -146,5 +146,29 @@ https://github.com/riscv2os/riscv2os/blob/master/semu/semu.c
 https://github.com/riscv2os/riscv2os/wiki  
   
   
+---------------------------------------------  
+  
+NVIDIA GPU Architecture  
+https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units  
+  
+  https://en.wikipedia.org/wiki/Fahrenheit_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Celsius_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Kelvin_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Rankine_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Curie_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Tesla_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Fermi_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Kepler_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Maxwell_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Pascal_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Turing_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Volta_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Ampere_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Lovelace_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Hopper_(microarchitecture)  
+  https://en.wikipedia.org/wiki/Blackwell_(microarchitecture)  
+  
+  
+  
 ----------------------------------------------  
 End of File
