@@ -114,6 +114,7 @@ openMIPS - ENIGMA2
   
   https://en.wikipedia.org/wiki/RISC-V  
   https://en.wikipedia.org/wiki/Berkeley_RISC  
+  https://en.wikipedia.org/wiki/OpenRISC  
   
   https://en.wikipedia.org/wiki/SPARC  
   https://en.wikipedia.org/wiki/OpenSPARC  
