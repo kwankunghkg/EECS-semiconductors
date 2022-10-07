@@ -1,4 +1,11 @@
 Repair OLPC Battery Pack  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/doc/RePair/OLPC/BatteryPack.md  
+  
+  
+----------------------------------------
+  
+updated : 2022-10-07_13:19(UTC+8)  
+  
   
   
 BLOG - OLPC XO-1   
@@ -34,6 +41,12 @@ To be a perfect salvage 18650/11865 Battery:
 6) Maximum charge voltage should be nearly 3.9V-4.2V DC.  
 My DIY 18650 Battery Charger -   
   https://youtu.be/JkJNguFuPso  
+  
+  
+Laptops Batteries Repair Tool - Best tool to repair/replace cells/reset laptop batteries and DJI / Electronics repair school / Oct 5, 2022  
+https://youtu.be/byPNqyD0SOM  
+19,428 views / 1.3K / 282K subscribers  
+  
   
   
   
