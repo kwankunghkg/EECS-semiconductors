@@ -1,3 +1,14 @@
+假貨 fake battery 沙子电池 充電寶  
+https://github.com/kwankunghkg/EECS-semiconductors/blob/main/doc/RePair/Battery/fake.md  
+  
+----------------------------------------  
+  
+updated  
+last : 2023-08-25_07:46(UTC+8)  
+prev : 2023-08-25_07:00(UTC+8)  
+  
+----------------------------------------  
+
 fake battery 沙子电池  充電寶  
   
 沙子电池#18650锂电池#移动电源   
@@ -37,3 +48,10 @@ https://youtu.be/bmDXEm4oU-E
 https://youtu.be/UlFjTX8X0qc  
 2.39K subscribers  2,387 views   
 #開箱丨#試玩丨#拆解丨#評測  
+   
+----------------------------------------  
+  
+----------------------------------------  
+  
+----------------------------------------  
+End of File.  
