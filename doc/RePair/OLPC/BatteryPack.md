@@ -2,10 +2,13 @@ Repair OLPC Battery Pack
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/doc/RePair/OLPC/BatteryPack.md  
   
   
-----------------------------------------
+----------------------------------------  
   
-updated : 2022-10-07_13:19(UTC+8)  
+updated  
+last : 2023-08-25_07:46(UTC+8)  
+prev : 2022-10-07_13:19(UTC+8)  
   
+----------------------------------------  
   
   
 BLOG - OLPC XO-1   
@@ -47,8 +50,15 @@ Laptops Batteries Repair Tool - Best tool to repair/replace cells/reset laptop b
 https://youtu.be/byPNqyD0SOM  
 19,428 views / 1.3K / 282K subscribers  
   
+----------------------------------------  
   
+300元不到的微型點焊機到底值得買嗎?? 這是我的實測紀錄 海賊王diy日記 / 海賊王DIY日記 /  Jun 28, 2021  
+https://youtu.be/AagscJ4ehtE  
+278K subscribers  325,364 views   
   
+----------------------------------------  
   
-----------------------------------------
-End of File.
+----------------------------------------  
+  
+----------------------------------------  
+End of File.  
