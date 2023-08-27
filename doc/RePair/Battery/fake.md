@@ -4,7 +4,7 @@ https://github.com/kwankunghkg/EECS-semiconductors/blob/main/doc/RePair/Battery/
 ----------------------------------------  
   
 updated  
-last : 2023-08-25_07:46(UTC+8)  
+last : 2023-08-27_19:09(UTC+8)  
 prev : 2023-08-25_07:00(UTC+8)  
   
 ----------------------------------------  
@@ -29,6 +29,11 @@ https://youtu.be/ioz0uaH85N8
 https://youtu.be/2Z9hZsqugSI  
 161 subscribers  23,069 views   
 28块钱买来个假华为充电宝，拆开后终于见到传说中的沙子电池  
+  
+fake 18650 cells filled with sand inside a USB power bank. #electronicscreators / My Project Box / Aug 7, 2021  
+https://youtu.be/sqa2Y05sa14  
+3.76K subscribers  4,821 views  
+	I opened my USB power bank, only to find 2 of the 5 (lithium18650) cells not connected to anything inside? So I decided to open them to investigate. And to my shock and horror they were filled with sand! These two cells were entirely fake and the sand was added to make them feel heavy! I replaced the fake cells with ones from an old laptop battery, and now the USB power bank is restored to its full capacity👍😉, as it was intended!  
   
 网购一盒18650锂电池 没想到都是套皮的假货 太坑人了 / DIY维修司 /  Feb 6, 2022  
 https://youtu.be/GWtUwSLaZvs  
