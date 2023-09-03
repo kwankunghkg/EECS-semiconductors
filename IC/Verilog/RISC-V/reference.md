@@ -2,6 +2,7 @@
 BLOG_GitHub_Verilog_RISC-V_20230903.txt      
       
 Verilog RISC-V  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/RISC-V/reference.md  
   
   
 ----------------------------------------  
