@@ -1,6 +1,6 @@
 
 BLOG_GitHub_FPGA_development_20240105.txt  
-  https://github.com/kwankunghkg/Robotics/blob/main/_learning/SebastianThrun.md  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/FPGA/development.md  
   
 last update : 20240105_0147(UTC+8)  
 prev update : 20240105_0147(UTC+8)  
