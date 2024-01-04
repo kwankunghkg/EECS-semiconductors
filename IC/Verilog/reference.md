@@ -17,13 +17,15 @@ Verilog book ...
   
 Verilog HDL: A Guide to Digital Design and Synthesis / by Samir Palnitkar / (1996)  
   https://issuu.com/lychanraksmey/docs/0134516753_-__1996__verilog_hdl_a_g  
-  https://images.app.goo.gl/DijSALeWsbW4kP599  
+  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQnTfYY1pDheMouxSOGxcAdJN3x2p2WiqS3w1vmlnWXkrRo3YOUnMvNwhqyXxlWOtPOhU&usqp=CAU" alt="Verilog HDL A Guide to Digital Design and Synthesis by Samir Palnitkar 1996"/>  
+    
   
   
 ----------------------------------------  
   
 ASIC-World / SystemVerilog  
-  asic-world.com / systemVerilog  
+http://asic-world.com / systemVerilog  
   
   
 ----------------------------------------  
