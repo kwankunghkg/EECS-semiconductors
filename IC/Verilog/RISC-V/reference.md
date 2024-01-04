@@ -8,8 +8,8 @@ Verilog RISC-V reference
 ----------------------------------------  
   
 updated  
-last : 2023-09-03_18:14(UTC+8)  
-prev : 2023-09-03_18:14(UTC+8)  
+last : 2024-01-05_02:14(UTC+8)  
+prev : 2023-09-03_18:14(UTC+8)    
   
 ----------------------------------------  
   
@@ -27,6 +27,14 @@ prev : 2023-09-03_18:14(UTC+8)
   
   
 ----------------------------------------  
+  
+Running a RISC-V Processor on the Arty A7 (Legacy)  
+  https://digilent.com/reference/programmable-logic/arty-a7/arty_a7_100_risc_v/start  
+
+  
+SiFive Core Designer - From Custom CPU to Hello World in 30 Minutes  
+  https://riscv.org/wp-content/uploads/2019/02/From-Custom-CPU-to-Hello-World-in-30-Minutes_v1.pdf  
+  
   
   
 ----------------------------------------  
