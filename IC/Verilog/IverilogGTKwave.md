@@ -136,6 +136,105 @@ endmodule // test
 ----  
   
   
+----  
+  
+  \\wsl$\home\kk\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log  
+  \\wsl.localhost\Ubuntu\home\kk\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log
+  
+  
+    141  uname -a  
+  145  gimp&  
+  146  ll  
+  147  sudo apt install gtkwave  
+  148  type gtkwave  
+  149  gtkwave &  
+  154  git config --global user.name "kwankunghkg"  
+  155  git config --global user.email "kwankunghkg@email.com"  
+  156  git clone https://github.com/steveicarus/iverilog.git  
+  157  ll  
+  158  cd iverilog/  
+  169  sh autoconf.sh   
+  170  less autoconf.sh   
+  171  less -N autoconf.sh   
+  172  type gperf   
+  175  type autoconf  
+  177  sudo apt install autoconf  
+  178  type gperf   
+  179  type autoconf  
+  180  ll  
+  181  sh autoconf.sh   
+  182  type bison  
+  183  sudo apt install bison  
+  184  type flex  
+  185  sudo apt install flex  
+  186  sudo apt install flex  --fix-missing  
+  189  type flex  
+  190  type g++  
+  191  type gcc  
+  192  sudo apt install g++  
+  193  sudo apt install g++ --fix-missing  
+  194  type g++  
+  195  sudo apt install gcc  
+  196  type gcc  
+  197  ./configure  
+  198  less config.log  
+  199  type gcc  
+  200  gcc -V  
+  201  gcc -v  
+  202  less -N config.log  
+  203  gcc --help  
+  204  less -N config.log  
+  205  sudo apt-get install build-essential  
+  206  sudo apt-get install build-essential  --fix-broken  
+  207  sudo apt-get install  --fix-broken build-essential  
+  208  sudo apt --fix-broken install  
+  209  sudo apt --fix-broken install  --fix-missing  
+  210  sudo apt-get update  
+  211  sudo apt --fix-broken install  --fix-missing  
+  212  ./configure  
+  213  make  
+  214  sudo apt install make  
+  215  sudo apt install make-guile  
+  216  make  
+  229  su  
+  230  sudo make install  
+  231  ll  
+  232  type iverilog  
+  233  pwd  
+  234  ..  
+  235  cd devel/  
+  236  ll  
+  237  mkdir verilog  
+  238  cd verilog  
+  239  mkdir test  
+  240  cd test  
+  241  mkdir 20240414_1625  
+  242  cd 20240414_1625  
+  243  date  
+  244  type datenow  
+  245  datenow  
+  246  nano  
+  247  ll  
+  248  iverilog -o hello hello.v  
+  249  ll  
+  250  type vvp  
+  251  vvp hello  
+  256  vi test.v  
+  257  vi counter.v  
+  259  less -N counter.v  
+  260  less -N test.v   
+  261  iverilog -o test test.v counter.v  
+  262  ll  
+  263  vvp test  
+  264  ll  
+  266  gtkwave --help  
+  267  gtkwave -f test.vcd &  
+  276  hist | tail -200 > hist`datenow`.log  
+  277  less -N hist_20240114_165318.log   
+  278  ll  
+  
+  
+  
   
 ----  
   
