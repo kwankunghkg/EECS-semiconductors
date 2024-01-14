@@ -139,10 +139,10 @@ endmodule // test
 ----  
   
   \\wsl$\home\kk\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log  
-  \\wsl.localhost\Ubuntu\home\kk\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log
+  \\wsl.localhost\Ubuntu\home\kk\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log  
   
   
-    141  uname -a  
+  141  uname -a  
   145  gimp&  
   146  ll  
   147  sudo apt install gtkwave  
