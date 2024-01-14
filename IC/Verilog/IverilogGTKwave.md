@@ -1,7 +1,7 @@
 BLOG_GitHub_IverilogGTKwave_20240114.txt  
-  https://github.com/kwankunghkg/AutoRecycle/edit/main/doc/reference.md  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/IverilogGTKwave.md  
   
-last update : 20240114_1700(UTC+8)  
+last update : 20240114_1703(UTC+8)  
 prev update : 20240114_1700(UTC+8)  
   
 --------------------------------------------------  
@@ -12,11 +12,14 @@ prev update : 20240114_1700(UTC+8)
   
 ----------------------------------------  
   
-WSL2+Iverilog+GTKwave  
   
+  
+----  
   
 sudo apt install gtkwave  
   
+  
+----  
   
 linux iverilog install  
   https://steveicarus.github.io/iverilog/usage/installation.html  
@@ -24,17 +27,25 @@ linux iverilog install
 % git config --global user.email you@yourpublicemail.example.com  
 % git clone https://github.com/steveicarus/iverilog.git  
   
+  
+----  
+  
 install bison, flex, g++ and gcc  
   
 % ./configure  
 % make  
 (su to root)  
-# make install  
+% sudo make install  
   
+  
+----  
   
 autoconf complains "C compiler cannot create executables" on Linux Mint  
   https://stackoverflow.com/questions/20678016/autoconf-complains-c-compiler-cannot-create-executables-on-linux-mint  
   
+  
+  
+----  
   
 vi hello.v  
   
@@ -51,7 +62,8 @@ iverilog -o hello hello.v
 vvp hello  
   
   
-    
+  
+----  
   
   https://physerver.hamilton.edu/people/bcollett/Verilog1.html  
   
@@ -79,10 +91,13 @@ always @reset
 endmodule // counter  
   
   
-  
+----  
   
 Generate .vcd File for Verilog w/ GTKwave  
   https://www.physicsforums.com/threads/generate-vcd-file-for-verilog-w-gtkwave.447739/#google_vignette  
+  
+  
+----  
   
 test.v  
   
@@ -94,12 +109,14 @@ initial begin
 $dumpfile("test.vcd");  
 $dumpvars(0,test);  
   
+```  
 # 17 reset = 1;  
 # 11 reset = 0;  
 # 29 reset = 1;  
 # 5 reset =0;  
 # 513 $finish;  
 end  
+```  
   
 /* Make a regular pulsing clock. */  
 reg clk = 0;  
