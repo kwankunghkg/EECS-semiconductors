@@ -57,6 +57,7 @@ module hello;
     end  
 endmodule  
   
+----  
   
 iverilog -o hello hello.v  
 vvp hello  
@@ -132,6 +133,11 @@ endmodule // test
    
   
   
+----  
+  
+  
+----  
+  
   
 ----  
   
@@ -140,6 +146,12 @@ endmodule // test
   
   
 ----  
+  
+  
+----  
+  
+  
+  
   
   \\wsl$\home\kwankunghkg\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log  
   \\wsl.localhost\Ubuntu\home\kwankunghkg\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log  
