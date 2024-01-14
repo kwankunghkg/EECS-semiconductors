@@ -1,7 +1,7 @@
 BLOG_GitHub_IverilogGTKwave_20240114.txt  
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/IverilogGTKwave.md  
   
-last update : 20240114_1347(UTC+8)  
+last update : 20240114_1851(UTC+8)  
 prev update : 20240114_1700(UTC+8)  
   
 --------------------------------------------------  
@@ -135,7 +135,8 @@ endmodule // test
   
 ----  
   
-  <img src="./test_WSL2_Iverilog_GTKwave.png" alt="./test_WSL2_Iverilog_GTKwave.png" style="height: 100px; width:100px;"/>  
+  
+  <img src="./test_WSL2_Iverilog_GTKwave.png" alt="./test_WSL2_Iverilog_GTKwave.png" style="height: 1080px; width:1920px;"/>  
   
   
 ----  
