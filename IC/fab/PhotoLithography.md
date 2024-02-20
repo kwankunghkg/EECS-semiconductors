@@ -22,8 +22,7 @@ prev update : 20240221_0550(UTC+8)
   
 ----  
   
-  
-在家里装一台光刻机，要花几个亿？ / 谈三圈 / Feb 6, 2024 / #芯片 #晶圆 #光刻机 #曝光機 #半导体 #半導體  #科普 #硬件  
+money to buy a fab at home - 在家里装一台光刻机，要花几个亿？ / 谈三圈 / Feb 6, 2024 / #芯片 #晶圆 #光刻机 #曝光機 #半导体 #半導體  #科普 #硬件  
 https://youtu.be/nN5E2JulHmA  
 21.1K subscribers / 5,283 views  // 
 	如何在家里自制芯片？  
@@ -33,7 +32,7 @@ https://youtu.be/nN5E2JulHmA
   
 ----  
   
-光刻机详解1：镜头及成像系统｜如何刻出更小的芯片 / 谈三圈 / Jul 2, 2022 / #芯片 #光刻机 #光刻機 #半导体 #科技 #科普 #光刻機 #半導體 
+PhotoLithography machine explained - 光刻机详解1：镜头及成像系统｜如何刻出更小的芯片 / 谈三圈 / Jul 2, 2022 / #芯片 #光刻机 #半导体 #科技 #科普 #光刻機 #半導體 
 https://youtu.be/TreusR8Sy4U  
 21K subscribers / 189,711 views  // 
 	光刻机是如何工作的？  
