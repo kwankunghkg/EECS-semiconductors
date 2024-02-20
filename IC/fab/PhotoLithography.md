@@ -1,7 +1,7 @@
 BLOG_GitHub_semicond_photolithography_20240221.txt  
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/fab/PhotoLithography.md  
   
-last update : 20240221_0744(UTC+8)  
+last update : 20240221_0754(UTC+8)  
 prev update : 20240221_0617(UTC+8)  
 prev update : 20240221_0550(UTC+8)  
   
@@ -431,6 +431,16 @@ How LEDs Work - Unravel the Mysteries of How LEDs Work! / The Engineering Mindse
   
   
 ----  
+  
+blue LED band gap  
+  
+The colour and energy emitted by the LEDs depends on the energy band gap (Eg) of the semiconductor that is used to fabricate the LEDs. Semiconductor materials with an Eg of 2.6 eV or larger is essential to develop blue LEDs that can emit a wavelength range from 455 nm to 485 nm .  
+  
+  
+  
+red LED band gap  
+  
+The band gap is 1.67 eV, which corresponds to a wavelength of 743 nm.   
   
   
   
