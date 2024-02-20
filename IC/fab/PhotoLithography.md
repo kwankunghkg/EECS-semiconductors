@@ -1,7 +1,7 @@
 BLOG_GitHub_semicond_photolithography_20240221.txt  
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/fab/PhotoLithography.md  
   
-last update : 20240221_0635(UTC+8)  
+last update : 20240221_0708(UTC+8)  
 prev update : 20240221_0617(UTC+8)  
 prev update : 20240221_0550(UTC+8)  
   
@@ -23,7 +23,7 @@ prev update : 20240221_0550(UTC+8)
 ----  
   
 money to buy a fab at home - 在家里装一台光刻机，要花几个亿？ / 谈三圈 / Feb 6, 2024 / #芯片 #晶圆 #光刻机 #曝光機 #半导体 #半導體  #科普 #硬件  
-https://youtu.be/nN5E2JulHmA  
+  https://youtu.be/nN5E2JulHmA  
 21.1K subscribers / 5,283 views  // 
 	如何在家里自制芯片？  
 	首先你需要安装一台光刻机...  
@@ -33,7 +33,7 @@ https://youtu.be/nN5E2JulHmA
 ----  
   
 PhotoLithography machine explained - 光刻机详解1：镜头及成像系统｜如何刻出更小的芯片 / 谈三圈 / Jul 2, 2022 / #芯片 #光刻机 #半导体 #科技 #科普 #光刻機 #半導體 
-https://youtu.be/TreusR8Sy4U  
+  https://youtu.be/TreusR8Sy4U  
 21K subscribers / 189,711 views  // 
 	光刻机是如何工作的？  
 	为什么会这么难制造？  
@@ -124,7 +124,7 @@ Comparison of the Double Gauss and Sonnar lens designs.
   https://en.wikipedia.org/wiki/Hash_function  
   https://en.wikipedia.org/wiki/ROCA_vulnerability  
   https://en.wikipedia.org/wiki/Common_Criteria#Criticisms  
-    In 2017, the ROCA vulnerability was found in a list of Common Criteria certified smart card products. The vulnerability highlighted several shortcomings of Common Criteria certification scheme  
+  In 2017, the ROCA vulnerability was found in a list of Common Criteria certified smart card products. The vulnerability highlighted several shortcomings of Common Criteria certification scheme  
   
   
 ----  
@@ -135,7 +135,7 @@ Comparison of the Double Gauss and Sonnar lens designs.
 ----  
   
 making of ingot - 芯片制造详解01: 从沙子到晶圆｜芯片生产之路有哪些坎 / 谈三圈 / Feb 13, 2022 / #芯片 #光刻机 #光刻機  
-https://youtu.be/VenxhKB-WHM  
+  https://youtu.be/VenxhKB-WHM  
 21.1K subscribers / 37,332 views  // 
 	如何用沙子造出芯片？  
 	全面解读芯片的制造流程，系统分析芯片国产化的难点。  
@@ -144,8 +144,8 @@ https://youtu.be/VenxhKB-WHM
   
 ----  
   
-making of wafer substrate - 芯片制造详解02：晶圆的诞生｜硅片的制造 / 谈三圈 / Apr 19, 2022 
-https://youtu.be/KyZioBSsEsI  
+making of wafer substrate - 芯片制造详解02：晶圆的诞生｜硅片的制造 / 谈三圈 / Apr 19, 2022  
+  https://youtu.be/KyZioBSsEsI  
 21.1K subscribers / 38,167 views  // 
 	详解芯片制造流程02：硅片（晶圆）的生产  
 	芯片之路的第一道关卡，短板在何处？  
@@ -154,7 +154,7 @@ https://youtu.be/KyZioBSsEsI
 ----  
   
 clean room - 芯片制造详解03： 洁净室的秘密｜为何芯片厂缺人？ / 谈三圈 / Apr 30, 2022  
-https://youtu.be/rnRfoIZgL3k  
+  https://youtu.be/rnRfoIZgL3k  
 21.1K subscribers / 40,668 views  // 
 	如何为“硅基生命”接生？  
 	为什么芯片制造业缺人？  
@@ -168,7 +168,7 @@ FOUP (an acronym for Front Opening Unified Pod or Front Opening Universal Pod) i
 ----  
   
 photoliography basics - 芯片制造详解04：光刻技术与基本流程 / 谈三圈 / May 29, 2022  
-https://youtu.be/Fow5Mhym3n8  
+  https://youtu.be/Fow5Mhym3n8  
 21.1K subscribers / 73,258 views  // 
 	为什么光刻，是芯片制造的基础？  
 	光刻机有何黑科技，为什么这么贵？  
@@ -179,7 +179,7 @@ https://youtu.be/Fow5Mhym3n8
 ----  
   
 etching - 如何雕刻芯片：刻蚀原理｜芯片制造详解05 / 谈三圈 / Jan 13, 2023 / #芯片 #etching #半导体  
-https://youtu.be/gafVI7R144A  
+  https://youtu.be/gafVI7R144A  
 21.1K subscribers / 100,681 views  // 
 	雕刻芯片有哪几种方法？  
 	剧毒腐蚀还是离子轰击？  
@@ -190,7 +190,7 @@ https://youtu.be/gafVI7R144A
 ----  
   
 deposition - 如何造出芯片：薄膜沉积｜芯片制造详解06 / 谈三圈 / Mar 23, 2023  
-https://youtu.be/9B8uDk2q_AE  
+  https://youtu.be/9B8uDk2q_AE  
 21.1K subscribers / 26,007 views  // 
 	什么是薄膜沉积？  
 	造芯片为什么需要它？  
@@ -201,7 +201,7 @@ https://youtu.be/9B8uDk2q_AE
 ----  
   
 competition of fab machines - 光刻机战争1970｜芯片时代的开启 / 谈三圈 /  Jun 18, 2022  
-https://youtu.be/mpgoyj6Cy3A  
+  https://youtu.be/mpgoyj6Cy3A  
 21.1K subscribers / 23,981 views  // 
 	光刻机的起源是什么，未来又将会走向何方？  
 	光刻机经历了怎样的进化，如何做出更小的芯片？  
@@ -254,7 +254,7 @@ antigen (Ag)
 ----  
   
 competition of fab machines - 光刻机战争1980｜日本双雄的崛起 / 谈三圈 / Aug 29, 2022  
-https://youtu.be/_UzuokrftDk  
+  https://youtu.be/_UzuokrftDk  
 21.1K subscribers / 24,268 views  // 
 	80年代的光刻技术如何追上摩尔定律，  
 	美国为何输掉垄断全球的光刻机市场，  
@@ -264,7 +264,7 @@ https://youtu.be/_UzuokrftDk
 ----  
   
 pure water - 超纯水科普：芯片制造水｜宇宙探秘水 / 谈三圈 /  Sep 29, 2022  
-https://youtu.be/2NZ0-0uNYAk  
+  https://youtu.be/2NZ0-0uNYAk  
 21.1K subscribers / 53,155 views  // 
 	什么是超纯水？  
 	如何生产超纯水？  
@@ -274,7 +274,7 @@ https://youtu.be/2NZ0-0uNYAk
 ----  
   
 如何制造5纳米芯片：纳米压印 vs EUV光刻机 / 谈三圈 / Oct 23, 2023  
-https://youtu.be/IqXNE2h02ns  
+  https://youtu.be/IqXNE2h02ns  
 21.1K subscribers / 12,910 views  // 
 	什么是纳米压印技术？ 
 	能否取代EUV光刻机？ 
@@ -285,7 +285,7 @@ https://youtu.be/IqXNE2h02ns
 ----  
   
 2030年了，怎么造芯片还在用90纳米制程？ / 谈三圈 /  Jul 16, 2023  
-https://youtu.be/chmGGmhEFdg  
+  https://youtu.be/chmGGmhEFdg  
 21.1K subscribers / 8,477 views  // 
 	20年前的芯片工艺，现在能用来做什么？ 
 	为什么汽车芯片的主流制程还是90纳米？ 
@@ -295,7 +295,7 @@ https://youtu.be/chmGGmhEFdg
 ----  
   
 automotive IC - 什么是汽车芯片？如何用古法造出芯片？ / 谈三圈 /  Jul 5, 2023  
-https://youtu.be/XNlsNC5iLp0  
+  https://youtu.be/XNlsNC5iLp0  
 21.1K subscribers / 5,482 views  // 
 	什么是汽车芯片？  
 	什么是成熟制程？ 
@@ -305,7 +305,7 @@ https://youtu.be/XNlsNC5iLp0
 ----  
   
 充电器的小秘密：氮化镓｜第三代半导体GaN HEMT / 谈三圈 / Dec 9, 2023  
-https://youtu.be/19ZWvR7SP9I  
+  https://youtu.be/19ZWvR7SP9I  
 21.1K subscribers / 87,507 views  // 
 	氮化镓快充头，问什么那么贵？ 
 	与传统芯片材料相比，氮化镓有什么不同？ 
@@ -320,8 +320,102 @@ https://youtu.be/19ZWvR7SP9I
   
 ----  
   
+### another great story in the history of invention...  
+// Engineering => Applied Science (knowledge+action+determination) //  
   
+  ▀▀▀▀▀▀▀▀▀▀▀▀  
+Why It Was Almost Impossible to Make the Blue LED / Veritasium / Feb 9, 2024  
+  https://youtu.be/AF8d72mA41M  
+14.9M subscribers / 13M224 views // 522k likes  
   
+  The blue LED was supposed to be impossible—until a young engineer proposed a moonshot idea.  
+  
+  ▀▀▀▀▀▀▀▀▀▀▀▀  
+  If you’re looking for a molecular modeling kit, try Snatoms, a kit I invented where the atoms snap together magnetically -  
+  https://ve42.co/SnatomsV  
+  Huge thanks to the UC Santa Barbara Materials Dept for taking us around.  
+  https://ssleec.ucsb.edu/  
+  Thanks to Álvaro Bermejillo Seco for reviewing the science.  
+  Thanks to these especially helpful sources:  
+  Nobel Prize Biography - Shuji Nakamura -  
+  https://ve42.co/NakamuraNobel  
+  Johnstone, B. (2015). Brilliant!. Prometheus Books. -  
+  https://ve42.co/Johnstone2015  
+  Nakamura, S., Pearton, S., & Fasol, G. (2010). The Blue Laser Diode: The Complete Story. Springer. -  
+  https://ve42.co/Nakamura2010  
+  ▀▀▀▀▀▀▀▀▀▀▀▀  
+  References:  
+  https://www.youtube.com/watch?v=O8M2z...  
+  https://www.youtube.com/watch?v=TGUte...  
+  https://www.youtube.com/watch?v=idwKH...  
+  https://www.youtube.com/watch?v=yoTAL...  
+  Touchstone, L. A. (2022). Nick Holonyak Jr. University of Illinois. -  
+  https://ve42.co/Touchstone2022  
+  Perry, T. S. (1995). The Unsung Inventor. IEEE Spectrum. -  
+  https://ve42.co/Perry1995  
+  Chabay, R. & Sherwood, B. (2011). Matter & interactions (4th ed.), S2: Semiconductors. Wiley. -  
+  https://ve42.co/ChabaySherwood  
+  How MOCVD Works via Aixtron -  
+  https://ve42.co/MOCVD  
+  Vangala, S. R., et al. (2019). Epitaxial growth of ZnSe on GaAs. Journal of Crystal Growth. -  
+  https://ve42.co/Vangala2019  
+  Nakamura, S. (1991). GaN Growth Using GaN Buffer Layer. JJAP. -  
+  https://ve42.co/Nakamura3rd1991  
+  Amano, H., et al. (1989). P-Type Conduction in Mg-Doped GaN w/ LEEBI. JJAP. -  
+  https://ve42.co/Amano1989  
+  Huang, M., et al. (2021). Defects in Mg–H‐Codoped GaN. Physica Status Solidi. -  
+  https://ve42.co/Huang2021  
+  Schubert, E. F. (2006). Light Emitting Diodes, Ch 4: LED basics. Cambridge University Press. -  
+  https://ve42.co/RPI-LEDs  
+  Kitada, C. (2001). Blue About Japan. Japan Inc. -  
+  https://ve42.co/Kitada2001  
+  Whitaker, T. (2002). Nakamura loses Nichia patent battle. Optics.org. - https://ve42.co/NichiaSales3  
+  Pirates Osaka. (2014). Nakamura awarded Nobel Prize in Physics. Hatena Blog. -  
+  https://ve42.co/NichiaSales1  
+  Growth Bozu via Twitter. -  
+  https://ve42.co/NichiaSales2  
+  Rose, J. (2014). Blue LEDs – Filling the world with new light. The Royal Swedish Academy of Sciences. -  
+  https://ve42.co/Rose2014  
+  Pattison, P. M., et al. (2017). LED lighting efficacy. Comptes Rendus Physique. -  
+  https://ve42.co/Pattison2017  
+  Electricity pricing via EIA -  
+  https://ve42.co/ElectricityPricing  
+  Lane, K., et al. (2023). Lighting. IEA. -  
+  https://ve42.co/LightingIEA  
+  LED Footprint via The Climate Group -  
+  https://ve42.co/ClimateGroupLED  
+  Nichia’s History via Nichia -  
+  https://ve42.co/NichiaHistory  
+  Shuji Nakamura via Wikipedia -  
+  https://ve42.co/NakamuraWiki  
+  ▀▀▀▀▀▀▀▀▀▀▀▀  
+  Images & Video:  
+  Lighting the World via UCTVInsight on YouTube -  
+  https://ve42.co/UCTVep2  
+  https://ve42.co/UCTVep3  
+  Palo Alto Times 1971 Article via Newspapers.com -  
+  https://ve42.co/Newspapers  
+  Nick Holonyak, Jr. and the LED via UIUC on YouTube -  
+  https://ve42.co/HolonyakIllinois  
+  The Original Blue LED via Science History Institute on YouTube -  
+  https://ve42.co/OGBlueLED  
+  Maxfield, M. (2022). Compound Semiconductors. EE Journal. -  
+  https://ve42.co/Maxfield2022  
+  M. Stutzmann, et al. (2001). Playing with Polarity. pss (b). -  
+  https://ve42.co/Stutzman2001  
+  Isamu Akasaki in 1995 via Andrey Nikolaev on YouTube -  
+  https://ve42.co/AsakiNikolaev  
+  Pioneer TX-610 Stereo Tuner via Ian Marino on YouTube -  
+  https://ve42.co/StereoMarino  
+  Shuji Nakamura via EPO on YouTube -  
+  https://ve42.co/NakamuraEPO  
+  Nichia Campus via Nichia on LinkedIn -  
+  https://ve42.co/NichiaHQ  
+  Nichia via TDElektronik on YouTube -  
+  https://ve42.co/NichiaTDE  
+  Violeds Sterilization of COVID-19 via Seoul Viosys -  
+  https://ve42.co/SterilizationUV  
+  ▀▀▀▀▀▀▀▀▀▀▀▀  
   
   
 ----  
