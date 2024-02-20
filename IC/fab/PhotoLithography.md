@@ -1,7 +1,8 @@
 BLOG_GitHub_semicond_photolithography_20240221.txt  
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/fab/PhotoLithography.md  
   
-last update : 20240221_0617(UTC+8)  
+last update : 20240221_0635(UTC+8)  
+prev update : 20240221_0617(UTC+8)  
 prev update : 20240221_0550(UTC+8)  
   
 --------------------------------------------------  
@@ -129,26 +130,31 @@ Comparison of the Double Gauss and Sonnar lens designs.
   
 ----  
   
-芯片制造详解01: 从沙子到晶圆｜芯片生产之路有哪些坎 / 谈三圈 / Feb 13, 2022 / #芯片 #光刻机 #光刻機  
+### IC Fabrication Process  
+  
+  
+----  
+  
+making of ingot - 芯片制造详解01: 从沙子到晶圆｜芯片生产之路有哪些坎 / 谈三圈 / Feb 13, 2022 / #芯片 #光刻机 #光刻機  
 https://youtu.be/VenxhKB-WHM  
 21.1K subscribers / 37,332 views  // 
-如何用沙子造出芯片？  
-全面解读芯片的制造流程，系统分析芯片国产化的难点。  
-这是第一期，让我们从硅基芯片的源头说起。  
+	如何用沙子造出芯片？  
+	全面解读芯片的制造流程，系统分析芯片国产化的难点。  
+	这是第一期，让我们从硅基芯片的源头说起。  
   
   
 ----  
   
-芯片制造详解02：晶圆的诞生｜硅片的制造 / 谈三圈 / Apr 19, 2022 
+making of wafer substrate - 芯片制造详解02：晶圆的诞生｜硅片的制造 / 谈三圈 / Apr 19, 2022 
 https://youtu.be/KyZioBSsEsI  
 21.1K subscribers / 38,167 views  // 
-详解芯片制造流程02：硅片（晶圆）的生产  
-芯片之路的第一道关卡，短板在何处？  
+	详解芯片制造流程02：硅片（晶圆）的生产  
+	芯片之路的第一道关卡，短板在何处？  
   
   
 ----  
   
-芯片制造详解03： 洁净室的秘密｜为何芯片厂缺人？ / 谈三圈 / Apr 30, 2022  
+clean room - 芯片制造详解03： 洁净室的秘密｜为何芯片厂缺人？ / 谈三圈 / Apr 30, 2022  
 https://youtu.be/rnRfoIZgL3k  
 21.1K subscribers / 40,668 views  // 
 	如何为“硅基生命”接生？  
@@ -156,13 +162,13 @@ https://youtu.be/rnRfoIZgL3k
 	欢迎收看芯片详解03：洁净室与污染源  
   
   
-FOUP (an acronym for Front Opening Unified Pod[1] or Front Opening Universal Pod[2]) is a specialized plastic carrier designed to hold silicon wafers securely and safely in a controlled environment, and to allow the wafers to be transferred between machines for processing or measurement.  
+FOUP (an acronym for Front Opening Unified Pod or Front Opening Universal Pod) is a specialized plastic carrier designed to hold silicon wafers securely and safely in a controlled environment, and to allow the wafers to be transferred between machines for processing or measurement.  
   https://en.wikipedia.org/wiki/FOUP  
   
   
 ----  
   
-芯片制造详解04：光刻技术与基本流程 / 谈三圈 / May 29, 2022  
+photoliography basics - 芯片制造详解04：光刻技术与基本流程 / 谈三圈 / May 29, 2022  
 https://youtu.be/Fow5Mhym3n8  
 21.1K subscribers / 73,258 views  // 
 	为什么光刻，是芯片制造的基础？  
@@ -173,7 +179,7 @@ https://youtu.be/Fow5Mhym3n8
   
 ----  
   
-如何雕刻芯片：刻蚀原理｜芯片制造详解05 / 谈三圈 / Jan 13, 2023 / #芯片 #etching #半导体  
+etching - 如何雕刻芯片：刻蚀原理｜芯片制造详解05 / 谈三圈 / Jan 13, 2023 / #芯片 #etching #半导体  
 https://youtu.be/gafVI7R144A  
 21.1K subscribers / 100,681 views  // 
 	雕刻芯片有哪几种方法？  
@@ -184,7 +190,7 @@ https://youtu.be/gafVI7R144A
   
 ----  
   
-如何造出芯片：薄膜沉积｜芯片制造详解06 / 谈三圈 / Mar 23, 2023  
+deposition - 如何造出芯片：薄膜沉积｜芯片制造详解06 / 谈三圈 / Mar 23, 2023  
 https://youtu.be/9B8uDk2q_AE  
 21.1K subscribers / 26,007 views  // 
 	什么是薄膜沉积？  
@@ -192,9 +198,10 @@ https://youtu.be/9B8uDk2q_AE
 	薄膜之力如何让晶体管更快？  
 	欢迎走进芯片课堂：化学气相沉积 CVD 
   
+  
 ----  
   
-光刻机战争1970｜芯片时代的开启 / 谈三圈 /  Jun 18, 2022  
+competition of fab machines - 光刻机战争1970｜芯片时代的开启 / 谈三圈 /  Jun 18, 2022  
 https://youtu.be/mpgoyj6Cy3A  
 21.1K subscribers / 23,981 views  // 
 	光刻机的起源是什么，未来又将会走向何方？  
@@ -247,7 +254,7 @@ antigen (Ag)
   
 ----  
   
-光刻机战争1980｜日本双雄的崛起 / 谈三圈 / Aug 29, 2022  
+competition of fab machines - 光刻机战争1980｜日本双雄的崛起 / 谈三圈 / Aug 29, 2022  
 https://youtu.be/_UzuokrftDk  
 21.1K subscribers / 24,268 views  // 
 	80年代的光刻技术如何追上摩尔定律，  
@@ -257,7 +264,7 @@ https://youtu.be/_UzuokrftDk
   
 ----  
   
-超纯水科普：芯片制造水｜宇宙探秘水 / 谈三圈 /  Sep 29, 2022  
+pure water - 超纯水科普：芯片制造水｜宇宙探秘水 / 谈三圈 /  Sep 29, 2022  
 https://youtu.be/2NZ0-0uNYAk  
 21.1K subscribers / 53,155 views  // 
 	什么是超纯水？  
@@ -288,7 +295,7 @@ https://youtu.be/chmGGmhEFdg
   
 ----  
   
-什么是汽车芯片？如何用古法造出芯片？ / 谈三圈 /  Jul 5, 2023  
+automotive IC - 什么是汽车芯片？如何用古法造出芯片？ / 谈三圈 /  Jul 5, 2023  
 https://youtu.be/XNlsNC5iLp0  
 21.1K subscribers / 5,482 views  // 
 	什么是汽车芯片？  
