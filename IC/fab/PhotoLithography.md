@@ -1,7 +1,7 @@
 BLOG_GitHub_semicond_photolithography_20240221.txt  
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/fab/PhotoLithography.md  
   
-last update : 20240221_0708(UTC+8)  
+last update : 20240221_0744(UTC+8)  
 prev update : 20240221_0617(UTC+8)  
 prev update : 20240221_0550(UTC+8)  
   
@@ -316,6 +316,9 @@ automotive IC - 什么是汽车芯片？如何用古法造出芯片？ / 谈三�
 ----  
   
   
+----  
+  
+  
   
   
 ----  
@@ -416,6 +419,23 @@ Why It Was Almost Impossible to Make the Blue LED / Veritasium / Feb 9, 2024
   Violeds Sterilization of COVID-19 via Seoul Viosys -  
   https://ve42.co/SterilizationUV  
   ▀▀▀▀▀▀▀▀▀▀▀▀  
+  
+  
+----  
+  
+How LEDs Work - Unravel the Mysteries of How LEDs Work! / The Engineering Mindset /  Apr 30, 2023 / #electronics #learning #engineering  
+  https://youtu.be/O8M2z2hIbag  
+  3.32M subscribers / 880,479 views  //   
+	How do LEDs work?  
+	In this video, we'll explain LED technology in an easy to understand way. We'll cover the different types of LED lights, the different colors that LEDs can emit, and the different applications for LED technology and how they work.  
+  
+  
+----  
+  
+  
+  
+----  
+  
   
   
 ----  
