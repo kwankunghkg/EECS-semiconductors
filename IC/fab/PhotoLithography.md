@@ -1,7 +1,7 @@
 BLOG_GitHub_semicond_photolithography_20240221.txt  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/fab/PhotoLithography.md  
   
-  
-last update : 20240221_0550(UTC+8)  
+last update : 20240221_0617(UTC+8)  
 prev update : 20240221_0550(UTC+8)  
   
 --------------------------------------------------  
