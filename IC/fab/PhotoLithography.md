@@ -32,7 +32,7 @@ money to buy a fab at home - 在家里装一台光刻机，要花几个亿？ / 
   
 ----  
   
-PhotoLithography machine explained - 光刻机详解1：镜头及成像系统｜如何刻出更小的芯片 / 谈三圈 / Jul 2, 2022 / #芯片 #光刻机 #半导体 #科技 #科普 #光刻機 #半導體 
+PhotoLithography machine explained - 光刻机详解1：镜头及成像系统｜如何刻出更小的芯片 / 谈三圈 / Jul 2, 2022 / #芯片 #光刻机 #半导体 #科技 #科普 #光刻機 #半導體  
   https://youtu.be/TreusR8Sy4U  
 21K subscribers / 189,711 views  // 
 	光刻机是如何工作的？  
@@ -129,7 +129,7 @@ Comparison of the Double Gauss and Sonnar lens designs.
   
 ----  
   
-### IC Fabrication Process  
+## IC Fabrication Process  
   
   
 ----  
@@ -323,7 +323,7 @@ automotive IC - 什么是汽车芯片？如何用古法造出芯片？ / 谈三�
   
 ----  
   
-### another great story in the history of invention...  
+## another great story in the history of invention...  
 // Engineering => Applied Science (knowledge+action+determination) //  
   
   ▀▀▀▀▀▀▀▀▀▀▀▀  
