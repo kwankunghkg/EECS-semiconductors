@@ -1,8 +1,8 @@
 BLOG_GitHub_semicond_photolithography_20240221.txt  
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/fab/PhotoLithography.md  
   
-last update : 20240221_0754(UTC+8)  
-prev update : 20240221_0617(UTC+8)  
+last update : 20240221_1154(UTC+8)  
+prev update : 20240221_0754(UTC+8)  
 prev update : 20240221_0550(UTC+8)  
   
 --------------------------------------------------  
@@ -432,6 +432,14 @@ How LEDs Work - Unravel the Mysteries of How LEDs Work! / The Engineering Mindse
   
 ----  
   
+How Blue LEDs Changed the World / Bloomberg Originals /  Apr 26, 2019  
+  https://youtu.be/idwKHQEw78g  
+  3.75M subscribers / 1,615,241 views  //   
+	Not only are small, energy efficient LEDs used in almost every piece of modern electronics, they have the greatest potential impact on energy savings globally. But LEDs didn't have much use until the '90s, when Japanese scientists discovered the missing link needed to complete the color spectrum: The blue LED.   
+  
+  
+----  
+  
 blue LED band gap  
   
 The colour and energy emitted by the LEDs depends on the energy band gap (Eg) of the semiconductor that is used to fabricate the LEDs. Semiconductor materials with an Eg of 2.6 eV or larger is essential to develop blue LEDs that can emit a wavelength range from 455 nm to 485 nm .  
@@ -441,6 +449,25 @@ The colour and energy emitted by the LEDs depends on the energy band gap (Eg) of
 red LED band gap  
   
 The band gap is 1.67 eV, which corresponds to a wavelength of 743 nm.   
+  
+  
+  
+----  
+  
+2 flow MOCVD  
+  
+  
+Metalorganic vapour-phase epitaxy (MOVPE), also known as organometallic vapour-phase epitaxy (OMVPE) or metalorganic chemical vapour deposition (MOCVD), is a chemical vapour deposition method used to produce single- or polycrystalline thin films. It is a process for growing crystalline layers to create complex semiconductor multilayer structures.  
+  https://en.wikipedia.org/wiki/Metalorganic_vapour-phase_epitaxy  
+  
+  
+the Invention of Efficient Blue InGaN Light Emitting Diodes / NobelPrize.org / 2018/06  
+by S NAKAMURA — ◦ High Crystal Quality: Dislocation density < 1x103 cm-2. ◦ Very Active Research ... Invention of Two-Flow MOCVD System. (MOCVD: Metal-Organic Chemical Vapor ...  
+  https://www.nobelprize.org/uploads/2018/06/nakamura-lecture-slides.pdf  
+  
+  
+  
+----  
   
   
   
