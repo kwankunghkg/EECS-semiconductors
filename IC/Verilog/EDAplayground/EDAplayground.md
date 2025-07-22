@@ -1,5 +1,5 @@
 BLOG_GitHub_EDAplayground_20250723.txt  
-  https://github.com/kwankunghkg/Self_Learning/blob/main/template.md  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/EDAplayground/EDAplayground.md  
   
   
   
