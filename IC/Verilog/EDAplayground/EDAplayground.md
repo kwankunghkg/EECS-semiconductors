@@ -1,18 +1,19 @@
 BLOG_GitHub_EDAplayground_20250723.txt  
+  https://github.com/kwankunghkg/Self_Learning/blob/main/template.md  
   
   
   
 ----------------------------------------  
   
 #### updated  
-last : 2025-07-23_05:13(UTC+8)  
+last : 2025-07-23_05:31(UTC+8)  
 prev : 2025-07-23_05:13(UTC+8)  
   
 ----------------------------------------  
   
-  counter.v  
+DeviceUnderTest : counter.v  
   
-  testbench.v  
+TestBench : test.v  
   
   
   
