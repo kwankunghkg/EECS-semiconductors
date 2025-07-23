@@ -15,6 +15,10 @@ DeviceUnderTest : counter.v
   
 TestBench : test.v  
   
+GitHub...  
+IC/Verilog/EDAplayground/counter.v  
+IC/Verilog/EDAplayground/test.v    
+  
   
   
 ----------------------------------------  
