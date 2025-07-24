@@ -1,4 +1,4 @@
-module counter(out, clk, reset);
+module counter(out, clock, reset);
 
 parameter WIDTH = 8;
 
