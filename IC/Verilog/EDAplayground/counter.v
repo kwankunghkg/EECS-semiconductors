@@ -3,12 +3,12 @@ module counter(out, clk, reset);
 parameter WIDTH = 8;
 
 output [WIDTH-1 : 0] out;
-input clk, reset;
+input clock, reset;
 
 reg [WIDTH-1 : 0] out;
-wire clk, reset;
+wire clock, reset;
 
-always @(posedge clk)
+always @(posedge clock)
   out <= out + 1;
 
 always @reset
