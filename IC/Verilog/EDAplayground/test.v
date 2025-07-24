@@ -1,4 +1,4 @@
-module test;
+module test;  // TestBench for counter.v
 
 /* Make a reset that pulses once. */
 reg reset = 0;
