@@ -16,8 +16,9 @@ initial begin
 reg clock = 0;
 always #1 clock = !clock;
 
-wire [7:0] value;
-  counter c1 (value, clock, reset); // instantiate DeviceUnderTest
+wire [7:0] value;  / declare probes for $monitor
+
+counter c1 (value, clock, reset);  // instantiate DeviceUnderTest
 
 initial $monitor("At time %t, value = %h (%0d)", $time, value, value);
 
