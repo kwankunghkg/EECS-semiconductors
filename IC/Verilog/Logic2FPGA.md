@@ -1,8 +1,6 @@
   
-  
-BLOG_GitHub_Logic2FPGA_20250725.txt 
-  https://github.com/kwankunghkg/Self_Learning/blob/main/template.md  
-  
+BLOG_GitHub_Logic2FPGA_20250725.txt  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/Logic2FPGA.md  
   
   
 ----------------------------------------  
@@ -13,8 +11,17 @@ prev : 2025-07-25_09:37(UTC+8)
   
 ----------------------------------------  
   
-  
 ## Logic Gate {not, and, or, xor}  
+  
+  
+----------------------------------------  
+  
+## Schematic Capture / Drawing  
+  
+  
+----------------------------------------  
+  
+## Logic Simulation {Gate Level}  
   
   
 ----------------------------------------  
@@ -34,37 +41,12 @@ prev : 2025-07-25_09:37(UTC+8)
   
 ----------------------------------------  
   
-## Logic {Combinational, Sequential}  
+## RTL / Verilog Syntax / Writing Style  
   
   
 ----------------------------------------  
   
-## Counter {Up, Down}  
-  
-  
-----------------------------------------  
-  
-## Circuit {Sync, Async}  
-  
-  
-----------------------------------------  
-  
-## State Machine  
-  
-  
-----------------------------------------  
-  
-## Schematic Capture / Drawing  
-  
-  
-----------------------------------------  
-  
-## Logic Simulation  
-  
-  
-----------------------------------------  
-  
-## Verilog Syntax / Writing Style  
+## Logic Simulation {HDL Level}  
   
   
 ----------------------------------------  
@@ -75,6 +57,26 @@ prev : 2025-07-25_09:37(UTC+8)
 ----------------------------------------  
   
 ## HDL Synthesis / Logic Viewer  
+  
+  
+----------------------------------------  
+  
+## Logic {Combinational, Sequential}  
+  
+  
+----------------------------------------  
+  
+## Counter {Up, Down}  
+  
+  
+----------------------------------------  
+  
+## State Machine  
+  
+  
+----------------------------------------  
+  
+## Circuit {Sync, Async}  
   
   
 ----------------------------------------  
