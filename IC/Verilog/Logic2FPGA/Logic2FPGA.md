@@ -3,6 +3,7 @@ BLOG_GitHub_Logic2FPGA_20250725.txt
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/Logic2FPGA/Logic2FPGA.md  
   
   
+  
 ----------------------------------------  
   
 #### updated  
@@ -152,6 +153,8 @@ EDA playground
   
 ## iVerilog gtkWave  
   
+BLOG_GitHub_IverilogGTKwave_20240114.md  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/IverilogGTKwave/IverilogGTKwave.md
   
   
   
