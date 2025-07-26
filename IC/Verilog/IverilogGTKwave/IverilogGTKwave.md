@@ -1,7 +1,8 @@
 BLOG_GitHub_IverilogGTKwave_20240114.txt  
-  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/IverilogGTKwave.md  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/IverilogGTKwave/IverilogGTKwave.md
   
-last update : 20240114_1851(UTC+8)  
+  
+last update : 20250726_1054(UTC+8)  
 prev update : 20240114_1700(UTC+8)  
   
 --------------------------------------------------  
