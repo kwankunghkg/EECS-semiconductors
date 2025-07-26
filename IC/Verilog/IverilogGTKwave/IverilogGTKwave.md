@@ -48,7 +48,8 @@ autoconf complains "C compiler cannot create executables" on Linux Mint
 ----  
   
 vi hello.v  
-  
+
+```  
 module hello;  
   initial  
     begin  
@@ -56,6 +57,7 @@ module hello;
       $finish ;  
     end  
 endmodule  
+```  
   
 ----  
   
@@ -69,7 +71,8 @@ vvp hello
   https://physerver.hamilton.edu/people/bcollett/Verilog1.html  
   
 counter.v  
-    
+
+```  
 module counter(out, clk, reset);  
   
 parameter WIDTH = 8;  
@@ -90,8 +93,8 @@ always @reset
       deassign out;  
   
 endmodule // counter  
-  
-  
+```
+    
 ----  
   
 Generate .vcd File for Verilog w/ GTKwave  
@@ -102,34 +105,33 @@ Generate .vcd File for Verilog w/ GTKwave
   
 test.v  
   
+```  
 module test;  
   
 /* Make a reset that pulses once. */  
 reg reset = 0;  
 initial begin  
-$dumpfile("test.vcd");  
-$dumpvars(0,test);  
-  
-```  
-# 17 reset = 1;  
-# 11 reset = 0;  
-# 29 reset = 1;  
-# 5 reset =0;  
-# 513 $finish;  
+  $dumpfile("test.vcd");  
+  $dumpvars(0,test);  
+  # 17 reset = 1;  
+  # 11 reset = 0;  
+  # 29 reset = 1;  
+  # 5 reset =0;  
+  # 513 $finish;  
 end  
-```  
   
 /* Make a regular pulsing clock. */  
 reg clk = 0;  
 always #1 clk = !clk;  
   
 wire [7:0] value;  
-counter c1 (value, clk, reset);  
+counter c1 (value, clk, reset);  // instantiate DeviceUnderTest
   
-initial  
-$monitor("At time %t, value = %h (%0d)",  
-$time, value, value);  
+initial  $monitor("At time %t, value = %h (%0d)", $time, value, value);  
+  
 endmodule // test  
+```  
+  
    
   
   
@@ -142,7 +144,7 @@ endmodule // test
 ----  
   
   
-  <img src="./test_WSL2_Iverilog_GTKwave.png" alt="./test_WSL2_Iverilog_GTKwave.png" style="height: 1080px; width:1920px;"/>  
+  <img src="./picture/test_WSL2_Iverilog_GTKwave.png" alt="./picture/test_WSL2_Iverilog_GTKwave.png" style="height: 1080px; width:1920px;"/>  
   
   
 ----  
