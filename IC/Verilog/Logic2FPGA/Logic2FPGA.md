@@ -82,6 +82,9 @@ Make Your First Circuit Simulation With CircuitVerse / CircuitVerse / Jan 25, 20
   
 ## Logic Simulation {Gate Level}  
   
+Using CircuitVerse to make simple logic circuits. / Mr Cressey's Class Videos / Apr 2, 2020  
+  https://youtu.be/l7jhdWjZB3U  
+  441 subscribers / 6,119 views //  
   
   
   
@@ -96,6 +99,8 @@ Make Your First Circuit Simulation With CircuitVerse / CircuitVerse / Jan 25, 20
   
 ## Adder {Half, Full}  
   
+Logic Adder  
+  https://en.wikipedia.org/wiki/Adder_(electronics)  
   
   
   
@@ -109,12 +114,31 @@ Make Your First Circuit Simulation With CircuitVerse / CircuitVerse / Jan 25, 20
   
 ## Decoder / Multiplexer  
   
+Decoder  
+  https://en.wikipedia.org/wiki/Binary_decoder  
+  
+  
+CircuitVerse: 7 Segment Decoder Complete Circuit / Pragati Jain /  Jul 8, 2020  
+  https://youtu.be/tGTy4P-RxP0  
+.  
+.  
+  
+  
+Multiplexer => Selector  
+  https://en.wikipedia.org/wiki/Multiplexer  
+  
+  
+  
+CircuitVerse Multiplexer demo / CKnow / Oct 7, 2022  
+  https://youtu.be/WjHp3TDcBEc  
+.  
+.  
+  
   
 Truth Table auto-gen Logic / CircuitVerse  
   
 Combinational Analysis Tool / CircuitVerse / Jan 25, 2022  
   https://youtu.be/kl9GC_VxAcU  
-  404 subscribers / 3,887 views //  
   
   <img src="./picture/Combinational Analysis Tool CircuitVerse.png" alt="./picture/Combinational Analysis Tool CircuitVerse.png" style=""/>  
   
