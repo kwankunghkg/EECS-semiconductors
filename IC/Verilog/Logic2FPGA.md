@@ -15,7 +15,10 @@ prev : 2025-07-25_09:37(UTC+8)
   
   
 CPU basic logic blocks  
+  
+HOW TRANSISTORS RUN CODE? / Core Dumped / May 3, 2024  
   https://youtu.be/HjneAhCy2N4  
+  295K subscribers / 942,292 views //  
   
   
   
@@ -24,8 +27,10 @@ CPU basic logic blocks
 ## Schematic Capture / Drawing  
   
 Logic Circuit / (Schematic Drawing + Simulation) / CircuitVerse  
-  https://youtu.be/F-_uvYJK938  
   
+Make Your First Circuit Simulation With CircuitVerse / CircuitVerse / Jan 25, 2022  
+  https://youtu.be/F-_uvYJK938  
+  404 subscribers / 5,661 views //  
   
   
   
@@ -49,7 +54,10 @@ Logic Circuit / (Schematic Drawing + Simulation) / CircuitVerse
   
   
 Truth Table auto-gen Logic / CircuitVerse  
+  
+Combinational Analysis Tool / CircuitVerse / Jan 25, 2022  
   https://youtu.be/kl9GC_VxAcU  
+  404 subscribers / 3,887 views //  
   
   
   
@@ -145,17 +153,37 @@ EDA playground
   
 ## CPU  
   
+  
+  
+How the Clock Tells the CPU to "Move Forward" / Core Dumped / Oct 31, 2024  
+  https://youtu.be/PVNAPWUxZ0g  
+  295K subscribers / 273,645 views //  
+  
+  
+  
 how CPU run program  
+  
+CRAFTING A CPU TO RUN PROGRAMS / Core Dumped / Jun 14, 2024  
   https://youtu.be/GYlNoAMBY6o  
+  295K subscribers / 231,831 views //  
+  
+  
   
   
 Standard Cell explained  
+  
+How do Transistors Build into a CPU? 🖥️🤔 How do Transistors Work? 🖥️🤔 / Branch Education / Jun 21, 2025  
   https://youtu.be/_Pqfjer8-O4  
+  2.46M subscribers / 1,499,549 views //  
+  
+  
   
   
 IC fabrication process  
-  https://youtu.be/dX9CGRZwD-w  
   
+How are Microchips Made? 🖥️🛠️ CPU Manufacturing Process Steps / Branch Education / May 17, 2024 
+  https://youtu.be/dX9CGRZwD-w  
+  2.46M subscribers / 8,885,822 views //  
   
   
   
