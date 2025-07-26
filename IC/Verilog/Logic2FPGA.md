@@ -23,10 +23,19 @@ CPU basic logic blocks
   
 ## Schematic Capture / Drawing  
   
+Logic Circuit / (Schematic Drawing + Simulation) / CircuitVerse  
+  https://youtu.be/F-_uvYJK938  
+  
+  
+  
+  
   
 ----------------------------------------  
   
 ## Logic Simulation {Gate Level}  
+  
+  
+  
   
   
 ----------------------------------------  
@@ -37,6 +46,11 @@ CPU basic logic blocks
 ----------------------------------------  
   
 ## Decoder / Multiplexer  
+  
+  
+Truth Table auto-gen Logic / CircuitVerse  
+  https://youtu.be/kl9GC_VxAcU  
+  
   
   
 ----------------------------------------  
@@ -52,6 +66,11 @@ CPU basic logic blocks
 ----------------------------------------  
   
 ## Logic Simulation {HDL Level}  
+  
+  
+EDA playground  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/EDAplayground/EDAplayground.md  
+  
   
   
 ----------------------------------------  
