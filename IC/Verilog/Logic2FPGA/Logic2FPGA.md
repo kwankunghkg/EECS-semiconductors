@@ -150,8 +150,11 @@ Latch and Flip-Flop Explained | Difference between the Latch and Flip-Flop / ALL
   
 ## RTL / Verilog Syntax / Writing Style  
   
+ASIC-world  
   www.asic-world.com  
   
+  
+NAND-LAND  
   www.NANDLAND.com  
   
   
