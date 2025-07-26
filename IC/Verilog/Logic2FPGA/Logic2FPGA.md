@@ -452,10 +452,11 @@ CRAFTING A CPU TO RUN PROGRAMS / Core Dumped / Jun 14, 2024
   
 Making logic gates from transistors / Ben Eater / Mar 23, 2015  
   https://youtu.be/sTu3LwpF6XI  
-  1.32M subscribers / 2,833,048 views // 
+  1.32M subscribers / 2,833,048 views //  
 .  
 .  
   
+  <img src="./picture/Making logic gates from transistors Ben Eater.png" alt="./picture/Making logic gates from transistors Ben Eater.png" style=""/>  
   
   
 ----------------------------------------  
