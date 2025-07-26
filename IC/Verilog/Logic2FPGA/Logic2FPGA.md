@@ -7,7 +7,7 @@ BLOG_GitHub_Logic2FPGA_20250725.txt
 ----------------------------------------  
   
 #### updated  
-last : 2025-07-26_11:20(UTC+8)  
+last : 2025-07-26_12:16(UTC+8)  
 prev : 2025-07-25_09:37(UTC+8)  
   
 ----------------------------------------  
@@ -118,9 +118,17 @@ Decoder
   https://en.wikipedia.org/wiki/Binary_decoder  
   
   
+7 Segment Decoder on CircuitVerse by Ram S / CircuitVerse / Jun 2, 2018  
+  https://youtu.be/EqxCBW0lMVQ  
+  Tutorial on how to build a 7 segment Decoder on CircuitVerse.  
+  
+  
 CircuitVerse: 7 Segment Decoder Complete Circuit / Pragati Jain /  Jul 8, 2020  
   https://youtu.be/tGTy4P-RxP0  
 .  
+  
+  
+  
 .  
   
   
@@ -133,6 +141,8 @@ CircuitVerse Multiplexer demo / CKnow / Oct 7, 2022
   https://youtu.be/WjHp3TDcBEc  
 .  
 .  
+  
+  
   
   
 Truth Table auto-gen Logic / CircuitVerse  
