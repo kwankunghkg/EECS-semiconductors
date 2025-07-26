@@ -150,6 +150,13 @@ Latch and Flip-Flop Explained | Difference between the Latch and Flip-Flop / ALL
   
 ## RTL / Verilog Syntax / Writing Style  
   
+  www.asic-world.com  
+  
+  www.NANDLAND.com  
+  
+  
+lowRISC Verilog Coding Style Guide  
+  https://github.com/lowRISC/style-guides/blob/master/VerilogCodingStyle.md  
   
   
   
@@ -181,8 +188,17 @@ EDA playground
   
 ## iVerilog gtkWave  
   
+  
+  
+  
 BLOG_GitHub_IverilogGTKwave_20240114.md  
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/IverilogGTKwave/IverilogGTKwave.md  
+  
+  
+  
+  
+installing iVerilog GTKWave  
+  https://fpga.mit.edu/6205/F23/documentation/iVerilog  
   
   
   
