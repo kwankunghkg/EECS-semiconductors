@@ -14,6 +14,11 @@ prev : 2025-07-25_09:37(UTC+8)
 ## Logic Gate {not, and, or, xor}  
   
   
+CPU basic logic blocks  
+  https://youtu.be/HjneAhCy2N4  
+  
+  
+  
 ----------------------------------------  
   
 ## Schematic Capture / Drawing  
@@ -103,7 +108,52 @@ prev : 2025-07-25_09:37(UTC+8)
   
   
   
+  
+  
 ----------------------------------------  
+  
+  
+  
+  
+  
+----------------------------------------  
+  
+  
+  
+  
+  
+----------------------------------------  
+  
+## CPU  
+  
+how CPU run program  
+  https://youtu.be/GYlNoAMBY6o  
+  
+  
+Standard Cell explained  
+  https://youtu.be/_Pqfjer8-O4  
+  
+  
+IC fabrication process  
+  https://youtu.be/dX9CGRZwD-w  
+  
+  
+  
+  
+  
+----------------------------------------  
+  
+  
+  
+----------------------------------------  
+  
+  
+  
+  
+  
+----------------------------------------  
+  
+  
   
   
   
