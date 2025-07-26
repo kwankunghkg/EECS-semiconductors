@@ -43,16 +43,15 @@ Boolean Logic & Logic Gates: Crash Course Computer Science #3 / CrashCourse / Ma
   
 CPU basic logic blocks  
   
-Exploring some of the basics of how computers work  
-Exploring How Computers Work / by Sebastian Lague  
-  https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq  
-•Playlist•5 videos•487,773 views  
 .  
 .  
   
 HOW TRANSISTORS RUN CODE? / Core Dumped / May 3, 2024  
   https://youtu.be/HjneAhCy2N4  
   295K subscribers / 942,292 views //  
+.  
+.  
+  
   
   <img src="./picture/HOW TRANSISTORS RUN CODE Core Dumped.png" alt="./picture/HOW TRANSISTORS RUN CODE Core Dumped.png" style=""/>  
   
@@ -405,15 +404,27 @@ How do Digital and Analog Clocks Work? / Branch Education / Jan 18, 2024
 ## CPU  
   
   
+Exploring some of the basics of how computers work  
+Exploring How Computers Work / by Sebastian Lague  
+  https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq  
+•Playlist•5 videos•487,773 views  
+.  
+.  
+.  
+.  
   
 How the Clock Tells the CPU to "Move Forward" / Core Dumped / Oct 31, 2024  
   https://youtu.be/PVNAPWUxZ0g  
   295K subscribers / 273,645 views //  
+.  
+.  
   
   <img src="./picture/How the Clock Tells the CPU to Move Forward Core Dumped.png" alt="./picture/How the Clock Tells the CPU to Move Forward Core Dumped.png" style=""/>  
   
   
 ----------------------------------------  
+  
+  
   
 ----------------------------------------  
   
@@ -422,6 +433,9 @@ how CPU run program
 CRAFTING A CPU TO RUN PROGRAMS / Core Dumped / Jun 14, 2024  
   https://youtu.be/GYlNoAMBY6o  
   295K subscribers / 231,831 views //  
+.  
+.  
+  
   
   <img src="./picture/CRAFTING A CPU TO RUN PROGRAMS Core Dumped.png" alt="./picture/CRAFTING A CPU TO RUN PROGRAMS Core Dumped.png" style=""/>  
   
@@ -443,6 +457,8 @@ Standard Cell explained
 How do Transistors Build into a CPU? 🖥️🤔 How do Transistors Work? 🖥️🤔 / Branch Education / Jun 21, 2025  
   https://youtu.be/_Pqfjer8-O4  
   2.46M subscribers / 1,499,549 views //  
+.  
+.  
   
   <img src="./picture/How do Transistors Build into a CPU Branch Education.png" alt="./picture/How do Transistors Build into a CPU Branch Education.png" style=""/>  
   
@@ -458,6 +474,8 @@ IC fabrication process
 How are Microchips Made? 🖥️🛠️ CPU Manufacturing Process Steps / Branch Education / May 17, 2024  
   https://youtu.be/dX9CGRZwD-w  
   2.46M subscribers / 8,885,822 views //  
+.  
+.  
   
   <img src="./picture/CPU Manufacturing Process Steps Branch Education.png" alt="./picture/CPU Manufacturing Process Steps Branch Education.png" style=""/>  
   
