@@ -450,6 +450,24 @@ CRAFTING A CPU TO RUN PROGRAMS / Core Dumped / Jun 14, 2024
 ----------------------------------------  
   
   
+----------------------------------------  
+  
+Logic Gates from Transistors: Transistors and Boolean Logic / Physics Videos by Eugene Khutoryansky / Jun 29, 2015  
+  https://youtu.be/SW2Bwc17_wA  
+  1.03M subscribers / 523,922 views //  
+  How to make all the logic gates from a field effect transistor, or from other logic gates.  
+.  
+.  
+  
+  <img src="./picture/Transistors and Boolean Logic Physics Videos by Eugene Khutoryansky.png" alt="./picture/Transistors and Boolean Logic Physics Videos by Eugene Khutoryansky.png" style=""/>  
+  
+  
+  
+  
+  
+----------------------------------------  
+  
+  
 Making logic gates from transistors / Ben Eater / Mar 23, 2015  
   https://youtu.be/sTu3LwpF6XI  
   1.32M subscribers / 2,833,048 views //  
