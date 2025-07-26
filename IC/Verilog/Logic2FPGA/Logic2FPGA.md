@@ -7,7 +7,7 @@ BLOG_GitHub_Logic2FPGA_20250725.txt
 ----------------------------------------  
   
 #### updated  
-last : 2025-07-26_12:16(UTC+8)  
+last : 2025-07-26_13:01(UTC+8)  
 prev : 2025-07-25_09:37(UTC+8)  
   
 ----------------------------------------  
@@ -42,6 +42,13 @@ Boolean Logic & Logic Gates: Crash Course Computer Science #3 / CrashCourse / Ma
 ----------------------------------------  
   
 CPU basic logic blocks  
+  
+Exploring some of the basics of how computers work  
+Exploring How Computers Work / by Sebastian Lague  
+  https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq  
+•Playlist•5 videos•487,773 views  
+.  
+.  
   
 HOW TRANSISTORS RUN CODE? / Core Dumped / May 3, 2024  
   https://youtu.be/HjneAhCy2N4  
