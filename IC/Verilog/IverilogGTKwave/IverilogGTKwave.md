@@ -230,19 +230,32 @@ PS C:\Users\kwank> wsl
 Welcome to Ubuntu 22.04.2 LTS (GNU/Linux 6.6.87.2-microsoft-standard-WSL2 x86_64)  
   
 kk@FACTOR-4600G:/mnt/c/Users/kk$ cd  
+
 kk@FACTOR-4600G:~$ pwd  
 /home/kk  
+
 kk@FACTOR-4600G:~$ type aliases  
 aliases is aliased to `source ~/.bash_aliases'  
+
 kk@FACTOR-4600G:~$ type aliased  
 aliased is aliased to `vi ~/.bash_aliases'  
+
 kk@FACTOR-4600G:~$ type ll  
 ll is aliased to `ls -al --group-directories-first'  
+  
 kk@FACTOR-4600G:~$ type datenow  
 datenow is aliased to `export datenow="_`date +%Y%m%d_%H%M%S`" ; echo ${datenow} '  
-kk@FACTOR-4600G:~$  
   
+kk@FACTOR-4600G:~$ type hist  
+hist is aliased to `history'  
+
+kk@FACTOR-4600G:~/devel/verilog/test/20240414_1625/counter_reset$ cat ~/.bash_aliases
   
+alias datenow='export datenow="_`date +%Y%m%d_%H%M%S`" ; echo ${datenow} '  
+alias hist='history'  
+alias his='history'  
+alias hislog='history > ~/hist`datenow`.log'  
+alias sync='sync;sync;sync'  
   
   
   
@@ -250,7 +263,7 @@ kk@FACTOR-4600G:~$
   \\wsl.localhost\Ubuntu\home\kwankunghkg\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log  
   
   
-  
+history  
   
   141  uname -a  
   145  gimp&  
