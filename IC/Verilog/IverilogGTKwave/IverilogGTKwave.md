@@ -160,7 +160,11 @@ endmodule // test
   
 ----  
   
-power shell  
+## power shell  
+  
+  
+```  
+  
   
 Windows PowerShell  
 Copyright (C) Microsoft Corporation. All rights reserved.  
@@ -189,6 +193,8 @@ kk@FACTOR-4600G:~$
   
   \\wsl$\home\kwankunghkg\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log  
   \\wsl.localhost\Ubuntu\home\kwankunghkg\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log  
+  
+  
   
   
   141  uname -a  
@@ -282,7 +288,7 @@ kk@FACTOR-4600G:~$
   277  less -N hist_20240114_165318.log  
   278  ll  
   
-  
+```  
   
   
 ----  
