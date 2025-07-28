@@ -2,7 +2,7 @@ BLOG_GitHub_IverilogGTKwave_20240114.txt
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/IverilogGTKwave/IverilogGTKwave.md
   
   
-last update : 20250728_1655(UTC+8)  
+last update : 20250728_1727(UTC+8)  
 prev update : 20250726_1054(UTC+8)  
 prev update : 20240114_1700(UTC+8)  
   
@@ -97,6 +97,31 @@ always @reset
 endmodule // counter  
 ```
   
+  
+counter_reset.v  
+  
+```  
+module counter(out, clk, reset);  
+  
+parameter WIDTH = 8;  
+  
+output [WIDTH-1 : 0] out;  
+input clk, reset;  
+  
+reg [WIDTH-1 : 0]   out;  
+wire clk, reset;  
+  
+always @(posedge reset or posedge clk)  
+    if (reset)  
+        out <= 0;  
+    else  
+        out <= out + 1;  
+  
+endmodule // counter  
+  
+```  
+  
+  
 ----  
   
 Generate .vcd File for Verilog w/ GTKwave  
@@ -138,6 +163,25 @@ endmodule // test
   
   
 ----  
+  
+  
+----  
+  
+  
+  
+```  
+  
+vi test.v  
+nano counter_reset.v  
+less counter_reset.v  
+ls -al  
+iverilog -o test test.v counter_reset.v  
+vvp test  
+gtkwave -f test.vcd &  
+history | tail -10  
+  
+```  
+  
   
   
 ----  
