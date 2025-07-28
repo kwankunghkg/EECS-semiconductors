@@ -1,6 +1,6 @@
   
 BLOG_GitHub_ComputerEngineering_20250727.txt  
-  https://github.com/kwankunghkg/Self_Learning/blob/main/template.md  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/CE/ComputerEngineering.md  
   
   
   
@@ -22,7 +22,7 @@ prev : 2025-07-25_10:00(UTC+8)
   
   
   
-## simultaneous multi-threading (SMT)  
+### simultaneous multi-threading (SMT)  
   
   
 Intel CEO Confirms SMT To Return to Future CPUs  
