@@ -8,7 +8,7 @@ BLOG_GitHub_ComputerEngineering_20250727.txt
   
 #### updated  
 last : 2025-07-28_18:04(UTC+8)  
-prev : 2025-07-25_10:00(UTC+8)  
+prev : 2025-07-27_10:00(UTC+8)  
   
 ----------------------------------------  
   
