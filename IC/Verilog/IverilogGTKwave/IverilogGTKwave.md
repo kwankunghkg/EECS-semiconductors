@@ -75,6 +75,7 @@ vvp hello
 counter.v  
 
 ```  
+  
 module counter(out, clk, reset);  
   
 parameter WIDTH = 8;  
@@ -95,7 +96,12 @@ always @reset
         deassign out;  
   
 endmodule // counter  
+  
 ```
+  
+----  
+  
+----  
   
   
 counter_reset.v  
@@ -122,17 +128,24 @@ endmodule // counter
 ```  
   
   
+  
+----  
+  
 ----  
   
 Generate .vcd File for Verilog w/ GTKwave  
   https://www.physicsforums.com/threads/generate-vcd-file-for-verilog-w-gtkwave.447739/#google_vignette  
   
   
+  
+----  
+  
 ----  
   
 test.v  
   
 ```  
+  
 module test;  
   
 /* Make a reset that pulses once. */  
@@ -157,10 +170,8 @@ counter c1 (value, clk, reset);  // instantiate DeviceUnderTest
 initial  $monitor("At time %t, value = %h (%0d)", $time, value, value);  
   
 endmodule // test  
+  
 ```  
-  
-  
-  
   
 ----  
   
