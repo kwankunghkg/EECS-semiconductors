@@ -2,7 +2,8 @@ BLOG_GitHub_IverilogGTKwave_20240114.txt
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/IverilogGTKwave/IverilogGTKwave.md
   
   
-last update : 20250726_1054(UTC+8)  
+last update : 20250728_1655(UTC+8)  
+prev update : 20250726_1054(UTC+8)  
 prev update : 20240114_1700(UTC+8)  
   
 --------------------------------------------------  
@@ -95,7 +96,7 @@ always @reset
   
 endmodule // counter  
 ```
-    
+  
 ----  
   
 Generate .vcd File for Verilog w/ GTKwave  
@@ -133,7 +134,7 @@ initial  $monitor("At time %t, value = %h (%0d)", $time, value, value);
 endmodule // test  
 ```  
   
-   
+  
   
   
 ----  
@@ -154,6 +155,36 @@ endmodule // test
 ----  
   
   
+----  
+  
+  
+----  
+  
+power shell  
+  
+Windows PowerShell  
+Copyright (C) Microsoft Corporation. All rights reserved.  
+Try the new cross-platform PowerShell https://aka.ms/pscore6  
+  
+PS C:\Users\kwank> wsl  
+  
+Welcome to Ubuntu 22.04.2 LTS (GNU/Linux 6.6.87.2-microsoft-standard-WSL2 x86_64)  
+  
+kk@FACTOR-4600G:/mnt/c/Users/kk$ cd  
+kk@FACTOR-4600G:~$ pwd  
+/home/kk  
+kk@FACTOR-4600G:~$ type aliases  
+aliases is aliased to `source ~/.bash_aliases'  
+kk@FACTOR-4600G:~$ type aliased  
+aliased is aliased to `vi ~/.bash_aliases'  
+kk@FACTOR-4600G:~$ type ll  
+ll is aliased to `ls -al --group-directories-first'  
+kk@FACTOR-4600G:~$ type datenow  
+datenow is aliased to `export datenow="_`date +%Y%m%d_%H%M%S`" ; echo ${datenow} '  
+kk@FACTOR-4600G:~$  
+  
+  
+  
   
   
   \\wsl$\home\kwankunghkg\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log  
@@ -171,16 +202,16 @@ endmodule // test
   156  git clone https://github.com/steveicarus/iverilog.git  
   157  ll  
   158  cd iverilog/  
-  169  sh autoconf.sh   
-  170  less autoconf.sh   
-  171  less -N autoconf.sh   
-  172  type gperf   
+  169  sh autoconf.sh  
+  170  less autoconf.sh  
+  171  less -N autoconf.sh  
+  172  type gperf  
   175  type autoconf  
   177  sudo apt install autoconf  
-  178  type gperf   
+  178  type gperf  
   179  type autoconf  
   180  ll  
-  181  sh autoconf.sh   
+  181  sh autoconf.sh  
   182  type bison  
   183  sudo apt install bison  
   184  type flex  
@@ -240,7 +271,7 @@ endmodule // test
   256  vi test.v  
   257  vi counter.v  
   259  less -N counter.v  
-  260  less -N test.v   
+  260  less -N test.v  
   261  iverilog -o test test.v counter.v  
   262  ll  
   263  vvp test  
@@ -248,7 +279,7 @@ endmodule // test
   266  gtkwave --help  
   267  gtkwave -f test.vcd &  
   276  hist | tail -200 > hist`datenow`.log  
-  277  less -N hist_20240114_165318.log   
+  277  less -N hist_20240114_165318.log  
   278  ll  
   
   
