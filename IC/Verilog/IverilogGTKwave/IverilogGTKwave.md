@@ -1,8 +1,9 @@
 BLOG_GitHub_IverilogGTKwave_20240114.txt  
-  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/IverilogGTKwave/IverilogGTKwave.md
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/IverilogGTKwave/IverilogGTKwave.md  
   
   
-last update : 20250728_1727(UTC+8)  
+last update : 20250804_2024(UTC+8)  
+prev update : 20250728_1727(UTC+8)  
 prev update : 20250726_1054(UTC+8)  
 prev update : 20240114_1700(UTC+8)  
   
@@ -50,7 +51,7 @@ autoconf complains "C compiler cannot create executables" on Linux Mint
 ----  
   
 vi hello.v  
-
+  
 ```  
 module hello;  
   initial  
@@ -73,7 +74,7 @@ vvp hello
   https://physerver.hamilton.edu/people/bcollett/Verilog1.html  
   
 counter.v  
-
+  
 ```  
   
 module counter(out, clk, reset);  
@@ -97,7 +98,7 @@ always @reset
   
 endmodule // counter  
   
-```
+```  
   
 ----  
   
@@ -165,7 +166,7 @@ reg clk = 0;
 always #1 clk = !clk;  
   
 wire [7:0] value;  
-counter c1 (value, clk, reset);  // instantiate DeviceUnderTest
+counter c1 (value, clk, reset);  // instantiate DeviceUnderTest  
   
 initial  $monitor("At time %t, value = %h (%0d)", $time, value, value);  
   
@@ -230,16 +231,16 @@ PS C:\Users\kwank> wsl
 Welcome to Ubuntu 22.04.2 LTS (GNU/Linux 6.6.87.2-microsoft-standard-WSL2 x86_64)  
   
 kk@FACTOR-4600G:/mnt/c/Users/kk$ cd  
-
+  
 kk@FACTOR-4600G:~$ pwd  
 /home/kk  
-
+  
 kk@FACTOR-4600G:~$ type aliases  
 aliases is aliased to `source ~/.bash_aliases'  
-
+  
 kk@FACTOR-4600G:~$ type aliased  
 aliased is aliased to `vi ~/.bash_aliases'  
-
+  
 kk@FACTOR-4600G:~$ type ll  
 ll is aliased to `ls -al --group-directories-first'  
   
@@ -248,8 +249,8 @@ datenow is aliased to `export datenow="_`date +%Y%m%d_%H%M%S`" ; echo ${datenow}
   
 kk@FACTOR-4600G:~$ type hist  
 hist is aliased to `history'  
-
-kk@FACTOR-4600G:~/devel/verilog/test/20240414_1625/counter_reset$ cat ~/.bash_aliases
+  
+kk@FACTOR-4600G:~/devel/verilog/test/20240414_1625/counter_reset$ cat ~/.bash_aliases  
   
 alias datenow='export datenow="_`date +%Y%m%d_%H%M%S`" ; echo ${datenow} '  
 alias hist='history'  
@@ -263,7 +264,7 @@ alias sync='sync;sync;sync'
   \\wsl.localhost\Ubuntu\home\kwankunghkg\devel\verilog\test\20240414_1625\iverilog_hist_20240114.log  
   
   
-history  
+history : WSL2  
   
   141  uname -a  
   145  gimp&  
@@ -359,8 +360,104 @@ history
 ```  
   
   
+  
 ----  
   
+  
+----  
+  
+  
+  
+----  
+  
+history : Raspberry Pi  
+  
+  
+```  
+kk@rpi5:~/devel/verilog/test/counter $ type ll  
+ll is aliased to `ls -al --group-directories-first'  
+  
+kk@rpi5:~/devel/verilog/test/counter $ type lll  
+lll is aliased to `ls -ld */'  
+  
+kk@rpi5:~/devel/verilog/test/counter $ type datenow  
+datenow is aliased to `export datenow="_`date +%Y%m%d_%H%M%S`" ; echo ${datenow} '  
+  
+kk@rpi5:~/devel/verilog/test/counter $ type hislog  
+hislog is aliased to `history > ~/hist`datenow`.log'  
+  
+  
+  
+  2001  sudo apt install gtkwave  
+  2002  gtkwave &  
+  2003  type gcc  
+  2004  type g++  
+  2013  type autoconf  
+  2014  sudo apt install autoconf  
+  2016  type autoconf  
+  2015  sudo apt install gperf  
+  2017  type gperf  
+  2020  sudo apt install flex  
+  2021  type flex  
+  2022  type bison  
+  2023  sudo apt install bison  
+  2024  type bison  
+  2005  git clone https://github.com/steveicarus/iverilog.git  
+  2006  lll  
+  2007  cd iverilog/  
+  2008  ll  
+  2009  ./configure  
+  2010  sh autoconf.sh  
+  2011  sudo sh autoconf.sh  
+  2012  sh ./autoconf.sh  
+  2018  sh ./autoconf.sh  
+  2019  ./configure  
+  2025  ./configure  
+  2026  make  
+  2027  sudo make install  
+  2028  ll  
+  2029  type vvp  
+  2030  type iverilog  
+  2031  cd ..  
+  2032  cd devel/  
+  2033  ll  
+  2034  md verilog  
+  2035  cd verilog  
+  2036  vi hello.v  
+  2037  iverilog -o hello hello.v  
+  2038  ll  
+  2039  md hello  
+  2040  md test  
+  2041  md test/hello  
+  2042  mv hello.* test/hello  
+  2043  ll test/hello  
+  2044  ll  
+  2045  ll hello  
+  2046  ll  
+  2047  mv hello test/hello//.  
+  2048  ll test/hello  
+  2049  cd test/hello  
+  2050  ..  
+  2051  md counter  
+  2052  cd counter  
+  2053  ll  
+  2054  vi counter.v  
+  2055  vi test.v  
+  2056  iverilog -o test.o test.v counter.v  
+  2057  vvp test.o  
+  2058  ll  
+  2059  gtkwave -f test.vcd &  
+  2061  type hislog  
+  2062  hislog  
+   
+```  
+  
+  
+  
+----  
+  
+  
+----  
   
   
 ----  
