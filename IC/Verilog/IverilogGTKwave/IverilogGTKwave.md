@@ -2,7 +2,8 @@ BLOG_GitHub_IverilogGTKwave_20240114.txt
   https://github.com/kwankunghkg/EECS-semiconductors/blob/main/IC/Verilog/IverilogGTKwave/IverilogGTKwave.md  
   
   
-last update : 20250804_2024(UTC+8)  
+last update : 20250806_2046(UTC+8)  
+prev update : 20250804_2024(UTC+8)  
 prev update : 20250728_1727(UTC+8)  
 prev update : 20250726_1054(UTC+8)  
 prev update : 20240114_1700(UTC+8)  
@@ -24,11 +25,18 @@ sudo apt install gtkwave
   
 ----  
   
-linux iverilog install  
+iVerilog Installation Guide  
   https://steveicarus.github.io/iverilog/usage/installation.html  
-% git config --global user.name "Your Name Goes Here"  
-% git config --global user.email you@yourpublicemail.example.com  
+  
+  
+----  
+  
+linux iverilog install  
+  
 % git clone https://github.com/steveicarus/iverilog.git  
+  
+  
+reference : scroll down to find history (WSL2 / Raspberry Pi)  
   
   
 ----  
@@ -41,11 +49,39 @@ install bison, flex, g++ and gcc
 % sudo make install  
   
   
+  
 ----  
   
 autoconf complains "C compiler cannot create executables" on Linux Mint  
   https://stackoverflow.com/questions/20678016/autoconf-complains-c-compiler-cannot-create-executables-on-linux-mint  
   
+  
+  
+  
+----  
+  
+MIT FPGA iVerilog gtkWave installation guide  
+  https://fpga.mit.edu/6205/F23/documentation/iVerilog  
+  
+  
+----  
+  
+install on MacOS  
+  
+iVerilog & gtkWave  ...  
+on MacOS by HomeBrew (installed and running),  
+very simple 2 brew commands,  
+followed MIT FPGA iVerilog gtkWave website  
+  
+brew install icarus-verilog  
+brew install --cask gtkwave  
+  
+  
+  
+----  
+  
+  
+----  
   
   
 ----  
@@ -449,7 +485,7 @@ hislog is aliased to `history > ~/hist`datenow`.log'
   2059  gtkwave -f test.vcd &  
   2061  type hislog  
   2062  hislog  
-   
+  
 ```  
   
   
