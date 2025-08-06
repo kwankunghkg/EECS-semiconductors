@@ -252,7 +252,7 @@ history | tail -10
   
 ----  
   
-## power shell  
+## power shell / WSL  
   
   
 ```  
@@ -262,31 +262,31 @@ Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.  
 Try the new cross-platform PowerShell https://aka.ms/pscore6  
   
-PS C:\Users\kwank> wsl  
+PS C:\Users\kwankung> wsl  
   
 Welcome to Ubuntu 22.04.2 LTS (GNU/Linux 6.6.87.2-microsoft-standard-WSL2 x86_64)  
   
-kk@FACTOR-4600G:/mnt/c/Users/kk$ cd  
+kwankung@4600G:/mnt/c/Users/kk$ cd  
   
-kk@FACTOR-4600G:~$ pwd  
+kwankung@4600G:~$ pwd  
 /home/kk  
   
-kk@FACTOR-4600G:~$ type aliases  
+kwankung@4600G:~$ type aliases  
 aliases is aliased to `source ~/.bash_aliases'  
   
-kk@FACTOR-4600G:~$ type aliased  
+kwankung@4600G:~$ type aliased  
 aliased is aliased to `vi ~/.bash_aliases'  
   
-kk@FACTOR-4600G:~$ type ll  
+kwankung@4600G:~$ type ll  
 ll is aliased to `ls -al --group-directories-first'  
   
-kk@FACTOR-4600G:~$ type datenow  
+kwankung@4600G:~$ type datenow  
 datenow is aliased to `export datenow="_`date +%Y%m%d_%H%M%S`" ; echo ${datenow} '  
   
-kk@FACTOR-4600G:~$ type hist  
+kwankung@4600G:~$ type hist  
 hist is aliased to `history'  
   
-kk@FACTOR-4600G:~/devel/verilog/test/20240414_1625/counter_reset$ cat ~/.bash_aliases  
+kwankung@4600G:~/devel/verilog/test/20240414_1625/counter_reset$ cat ~/.bash_aliases  
   
 alias datenow='export datenow="_`date +%Y%m%d_%H%M%S`" ; echo ${datenow} '  
 alias hist='history'  
@@ -406,20 +406,20 @@ history : WSL2
   
 ----  
   
-history : Raspberry Pi  
+## history : Raspberry Pi  
   
   
 ```  
-kk@rpi5:~/devel/verilog/test/counter $ type ll  
+kwankung@rpi5:~/devel/verilog/test/counter $ type ll  
 ll is aliased to `ls -al --group-directories-first'  
   
-kk@rpi5:~/devel/verilog/test/counter $ type lll  
+kwankung@rpi5:~/devel/verilog/test/counter $ type lll  
 lll is aliased to `ls -ld */'  
   
-kk@rpi5:~/devel/verilog/test/counter $ type datenow  
+kwankung@rpi5:~/devel/verilog/test/counter $ type datenow  
 datenow is aliased to `export datenow="_`date +%Y%m%d_%H%M%S`" ; echo ${datenow} '  
   
-kk@rpi5:~/devel/verilog/test/counter $ type hislog  
+kwankung@rpi5:~/devel/verilog/test/counter $ type hislog  
 hislog is aliased to `history > ~/hist`datenow`.log'  
   
   
