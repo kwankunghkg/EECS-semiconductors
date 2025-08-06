@@ -266,10 +266,10 @@ PS C:\Users\kwankung> wsl
   
 Welcome to Ubuntu 22.04.2 LTS (GNU/Linux 6.6.87.2-microsoft-standard-WSL2 x86_64)  
   
-kwankung@4600G:/mnt/c/Users/kk$ cd  
+kwankung@4600G:/mnt/c/Users/kwankung$ cd  
   
 kwankung@4600G:~$ pwd  
-/home/kk  
+/home/kwankung  
   
 kwankung@4600G:~$ type aliases  
 aliases is aliased to `source ~/.bash_aliases'  
