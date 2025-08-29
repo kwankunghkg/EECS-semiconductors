@@ -1,7 +1,7 @@
   
   
 BLOG_GitHub_history_semiconductors_industry_20250829.txt  
-  https://github.com/kwankunghkg/Self_Learning/blob/main/template.md  
+  https://github.com/kwankunghkg/EECS-semiconductors/blob/main/history/semiconductors_industry_20250829.md  
   
   
   
